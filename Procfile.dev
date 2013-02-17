@@ -1,0 +1,2 @@
+web: lein ring server $PORT
+redis: redis-server

@@ -1,0 +1,2 @@
+lein with-profile production deps
+lein with-profile production compile :all
